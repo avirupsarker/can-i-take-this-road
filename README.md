@@ -38,7 +38,7 @@ Enable **Routes API** and **Geocoding API** for the key in Google Cloud Console.
 npm run dev
 ```
 
-App runs at http://localhost:3000.
+Live app: [https://road-1mriv5vn5-avirupsarker1999-5552s-projects.vercel.app](https://road-1mriv5vn5-avirupsarker1999-5552s-projects.vercel.app)
 
 Production build:
 
